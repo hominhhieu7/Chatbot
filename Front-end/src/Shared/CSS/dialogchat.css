@@ -12,3 +12,6 @@
   .rcw-message > .rcw-client {
     background-color: #005FF1;
   }
+  .rcw-message > .rcw-snippet {
+    background-color: #444950;
+  }
